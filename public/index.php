@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
+<!-- CODIGO PARA O INICIO DO PHP NO localhost:8000 -->
+<!-- php -S localhost:8000 -t public -->
 
 <?php
 $quebra = "<br>";
@@ -16,20 +18,6 @@ echo $quebra;
 echo $x*$y;
 echo $quebra . $quebra;
 
-<<<<<<< HEAD
-var_dump($palavra);
-echo $quebra;
-var_dump($x);
-
-// Todas as variaveis recebem o valor de Fruta em String
-$a = $b = $c = "Fruta";
-
-?>
-
-</body>
-</html>
-=======
 echo 'Hello World!';
 
 ?>
->>>>>>> 89a3dc091d39a14d6f3ceb535dd7c62b3658b337
